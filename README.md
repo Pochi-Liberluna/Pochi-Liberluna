@@ -9,8 +9,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pochi-Liberluna&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pochi-Liberluna&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pochi-Liberluna&theme=2077&utcOffset=8)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pochi-Liberluna¥&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 We are Annonymous!  
