@@ -8,7 +8,7 @@
 ・My team is <a href="https://github.com/Liberluna/">Liberluna</a>
 
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pochi-Liberluna&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pochi-Liberluna&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api?username=Pochi-Liberluna&count_private=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pochi-Liberluna&layout=compact&theme=blueberry
 )](https://github.com/anuraghazra/github-readme-stats)
