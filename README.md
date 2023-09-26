@@ -1,4 +1,3 @@
-
 ### Hello there 👋
 
 ・I'm high scool student.  
